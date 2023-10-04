@@ -1,18 +1,25 @@
 ---
-layout: default
----
+layout: default6---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+5555
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Education
+- Executive PG Machine Learning & Artificial Intelligence - (Aug'2023-Aug'2024)
+  IIIT- Banaglore
+- Masters in Management Studies,Information Technology - (July 2012-July 2014)
+  Univeristy of Mumbai
+- Bachelor of Science,Information Technology - (June 2007-June 2010)
+  University of Mumbai
+- FYJC & SYJC, Science - (June2005-June 2007)
+  University of Mumbai
+- Secondary School (June 2005)
+  Indian Certificate of Secondary Education (ICSE)
 
 ## Header 2
 
